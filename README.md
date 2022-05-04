@@ -58,3 +58,7 @@ For example, you could try containerising and deploying an app you've built prev
 - AWS Elastic Beanstalk
 - Logging
 - Telemetry
+
+## Our Model
+
+<img src="./public/images/ablus-model.png">

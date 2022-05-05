@@ -61,5 +61,5 @@ For example, you could try containerising and deploying an app you've built prev
 
 ## Our Model
 
-<img src="./images/ablus-model.png">
-<img src="./images/ablus-model-2.png">
+<img src="./images/albus-model.png">
+<img src="./images/albus-model-2.png">

@@ -63,3 +63,4 @@ For example, you could try containerising and deploying an app you've built prev
 
 <img src="./images/albus-model.png">
 <img src="./images/albus-model-2.png">
+<img src="./images/albus-model-3.png">
